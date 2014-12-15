@@ -1,4 +1,1 @@
-python-training-material
-========================
-
-Python training material for FAA.
+doc/README.md
