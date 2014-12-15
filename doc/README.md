@@ -1,22 +1,35 @@
-python-training-material
-========================
+# Python training material for FAA.
 
-Python training material for FAA.
+## Curriculum topics
 
-# Curriculum topics
+### Introduction to Python programming
+* Why Python?
+* Data types
+* Data structures
+* Structured programming
+* Functions
 
-# Other resources
+### Data Analysis with Python
+* Numpy
+* Scipy
+* Pandas
 
-## Online learning
+### ML with Python
+* Scikit Learn
+* NLTK
+
+## Other resources
+
+### Online learning
 * [MIT OCW 6.189][mitocw]: A Gentle Introduction to Programming using Python
 * [Harvard CS 109][cs109]: Data Science
 
-## Books
+### Books
 * Dive into Python (different books for [Python 2][dip2] and [Python 3][dip3]), Mark Pilgrim.
 * [Python for Data Analysis][mckinney], Wes McKinney.
 * [Problem solving with Algorithms and Data Structures][miller], Miller & Ranum.
 
-## FAA resources:
+### FAA resources:
 * Akhil S. Behl: akhilb@fractalanalytics.com
 
 <!--links-->
