@@ -2,19 +2,20 @@
 
 ## Curriculum topics
 
-### Introduction to Python programming
+### 101: Introduction to Python programming
 * Why Python?
 * Data types
 * Data structures
 * Structured programming
 * Functions
+* OOP: Introduction to classes
 
-### Data Analysis with Python
+### 102: Data Analysis with Python
 * Numpy
 * Scipy
 * Pandas
 
-### ML with Python
+### 103: ML with Python
 * Scikit Learn
 * NLTK
 
