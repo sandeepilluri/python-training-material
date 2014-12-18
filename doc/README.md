@@ -26,18 +26,34 @@
   - Functions
   - Methods
 * Structured programming
-  - `if`
-  - `while`
-  - `for`
-  - `try`
-  - `with`
+  - Conditional execution
+    + `if`
+  - Looping
+    + `while`
+    + `for`
+    + `next`
+    + `continue`
+  - Exception handling
+    + `try`
+    + `except`
+    + `raise`
+    + `else`
 * Using packages
   - Stdlib
   - Module
   - Package
   - The `import` statement
+* I/O
+  - Interactive I/O
+  - File I/O
+    + Reading
+    + Writing
+    + The `with` context statement
+    + Character encodings: a quick introduction.
 * Writing functions
+  - Implementing a suite of functions to use on lists
 * Writing classes
+  - Implementing a stack data structure
 
 ### 102: Data Analysis with Python
 * Numpy
