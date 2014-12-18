@@ -6,8 +6,7 @@
 * Vast standard library
 
 ```
-Interesting read: [Programming at Python Speed][propyspeed]
-An interview of Guido van Rossum and Bill Venners on what makes Python productive.
+[**Programming at Python Speed**][progpyspeed]: An interview of Guido van Rossum and Bill Venners on what makes Python productive.
 ```
 
 <!--links-->
