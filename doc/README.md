@@ -4,11 +4,40 @@
 
 ### 101: Introduction to Python programming
 * Why Python?
-* Data types
-* Data structures
+  - Clean design: pretty, readable, functional, flexible OOP.
+  - General purpose: write text processing utilities, glue stuff together, build websites, analyze data.
+  - Efficient: YYMV.
+  - Large community and collection of packages: stdlib, packages, frameworks, fora.
+* Building blocks
+  - Objects, values and variables
+  - Expressions
+  - Statements
+* Simple data types
+  - Numbers: `int`, `float`, `long`
+  - Boolean: `True`, `False`
+  - String
+  - `None`
+* [Compound data types][comptype]
+  - Tuple
+  - List
+  - Set and frozenset
+  - Dict
+* Callable types
+  - Functions
+  - Methods
 * Structured programming
-* Functions
-* OOP: Introduction to classes
+  - `if`
+  - `while`
+  - `for`
+  - `try`
+  - `with`
+* Using packages
+  - Stdlib
+  - Module
+  - Package
+  - The `import` statement
+* Writing functions
+* Writing classes
 
 ### 102: Data Analysis with Python
 * Numpy
@@ -40,3 +69,4 @@
 [dip3]: http://www.diveintopython3.net
 [mckinney]: http://www.amazon.in/Python-For-Data-Analysis-McKinney/dp/9351100065
 [miller]: http://interactivepython.org/courselib/static/pythonds/index.html
+[comptype]: http://stackoverflow.com/questions/11801549/python-data-types-are-classes-or-data-structures
